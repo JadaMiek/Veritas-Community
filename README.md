@@ -23,3 +23,9 @@ This website transforms our former divorce mediation platform into a vibrant com
 - Life Coaching & Mentorship: Support for living in alignment with Christian values
 
 The new platform emphasizes building stronger families, healthier communities, and more resilient individuals through honest conversation and mutual support.
+
+## Contact
+
+For inquiries about community events and involvement:
+- Email: veritashq.inc@gmail.com
+- Phone: (732) 773-1264

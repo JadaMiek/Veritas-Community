@@ -105,11 +105,11 @@ export default function Home() {
         "For where two or three gather together in my name, there am I among them."
         - Matthew 18:20
       </p>
-      <a className="button" href="mailto:hello@veritascommunity.org">
+      <a className="button" href="mailto:veritashq.inc@gmail.com">
         Get Involved Today
       </a>
       <p>
-        <a href="tel:+15551234567">(555) 123-4567</a>
+        <a href="tel:+7327731264">(732) 773-1264</a>
       </p>
     </section>
     <footer>
